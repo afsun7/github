@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+}
+.active-btn {
+  color: #ff4f66;
+  border: 1px solid #ff4f66 !important;
+  background-color: rgba(255, 79, 102, 0.1);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
